@@ -1,7 +1,6 @@
-## Hello, I'm Rohan Shukla! 👋
+## 👋 Hello, I'm Rohan Shukla!
 
 ### 🧑‍💻 About Me
-
 - 🌟 **Passionate Software Engineer** from [India](https://en.wikipedia.org/wiki/India), specializing in web and mobile apps.
 - 💼 **Current Role:** Senior Software Engineer at GfK - An NIQ Company
 - 🎓 **Education:** Computer Engineering from Pune University
@@ -28,11 +27,12 @@
 
 ## 🌟 Featured Projects
 
-- **OTP-Agent:** A JavaScript package for creating one-time passwords (OTPs), including custom OTPs, TOTP, and HOTP.
-  [GitHub Repository](https://github.com/rohanshukla/otp-agent)
-  - 🔐 Features secure OTP generation and validation.
-  - ⏳ Supports Time-based OTP (TOTP) and HMAC-based OTP (HOTP).
-  - ⚙️ Customizable options for OTP length, expiry time, and more.
+### **OTP-Agent**
+A JavaScript package for creating one-time passwords (OTPs), including custom OTPs, TOTP, and HOTP. [GitHub Repository](https://github.com/rohanshukla/otp-agent)
+
+- 🔐 Secure OTP generation and validation
+- ⏳ Supports Time-based OTP (TOTP) and HMAC-based OTP (HOTP)
+- ⚙️ Customizable options for OTP length, expiry time, and more
 
 ---
 
@@ -50,3 +50,5 @@
 
 - **Quote I Live By:** "The best way to predict the future is to create it." - Peter Drucker
 - **Fun Fact:** I love experimenting with new technologies and constantly learning new things!
+
+---
