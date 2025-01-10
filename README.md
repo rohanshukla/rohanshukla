@@ -44,7 +44,11 @@ A JavaScript package for creating one-time passwords (OTPs), including custom OT
 
 ## 📈 GitHub Stats
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rohanshukla&show_icons=true&theme=dark" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanshukla&layout=compact&theme=dark" alt="Top Languages" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanshukla&theme=dark" alt="Streak Stats" /> </div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rohanshukla&show_icons=true&theme=dark" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanshukla&layout=compact&theme=dark" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanshukla&theme=dark" alt="Streak Stats" />
+</div>
 
 ---
 
