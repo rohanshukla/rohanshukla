@@ -34,11 +34,13 @@
 
 ### **OTP-Agent**
 
-A JavaScript package for creating one-time passwords (OTPs), including custom OTPs, TOTP, and HOTP. [GitHub Repository](https://github.com/rohanshukla/otp-agent)
+A JavaScript package for generating one-time passwords (OTPs), including custom OTPs, TOTP, HOTP, and recovery codes. Ideal for secure authentication. [GitHub Repository](https://github.com/rohanshukla/otp-agent)
 
-- 🔐 Secure OTP generation and validation
-- ⏳ Supports Time-based OTP (TOTP) and HMAC-based OTP (HOTP)
-- ⚙️ Customizable options for OTP length, expiry time, and more
+- 🔐 Secure generation and validation of OTPs
+- ⏳ Supports both Time-based (TOTP) and HMAC-based (HOTP) OTP standards
+- ⚙️ Highly customizable: configure OTP length, expiry, and more
+- 🛡️ Includes recovery code generation for account recovery scenarios
+- 📦 Easy integration into Node.js and browser environments
 
 ---
 
